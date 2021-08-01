@@ -18,7 +18,7 @@ export default function RichTextEditor() {
       },
     },
     content:
-      '<h1>Welcome to Textify 👋</h1><h2>Your smart editor</h2><h3>Features</h3><ul><li><p>All Essential basic editor features like bold, italic, underline ,strike-through</p></li><li><p>Supports Markdown input</p></li><li><p>Clever enough to understand -&gt; this and convert to →,or did</p></li><li><p>Add Images with a link</p></li><li><p>Embed Links as text</p></li><li><p>Horizontal lines by typing ---</p></li><li><p>add code blocks with ``` and blockquotes with &gt;followed by spacebar</p><h2>And Get Memes just by typing {{text}}+space</h2><h4>And it will replace that with an actual MEME fetched from Giphy (adding gif memes soon)</h4></li></ul><img src="https://dynamicMemeApi.harshitsaxena58.repl.co/meme/?keyword=suparman"><p>bye </p>',
+      '<h1>Welcome to Textify 👋</h1><h2>Your smart editor</h2><h3>Features</h3><ul><li><p>All Essential basic editor features like bold, italic, underline ,strike-through</p></li><li><p>Supports Markdown input</p></li><li><p>Clever enough to understand -&gt; this and convert to →,or did</p></li><li><p>Add Images with a link</p></li><li><p>Embed Links as text</p></li><li><p>Horizontal lines by typing ---</p></li><li><p>add code blocks with ``` and blockquotes with &gt;followed by spacebar</p><h2>And Get Memes just by typing {{text}}+space</h2><h4>And it will replace that with an actual MEME fetched from Giphy (adding gif memes soon)</h4></li></ul><img src="https://dynamicMemeApi.harshitsaxena58.repl.co/meme/?keyword=superman"><p> press ctrl+a > backspace to clear all this, bye </p>',
   });
 
   return (
