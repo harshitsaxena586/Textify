@@ -1,23 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
+import RichTextEditor from "./components/richTextEditor/index";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App bg-gray-50 min-h-screen	 ">
+      <h1 className="  text-center font-bold text-gray-900 text-3xl md:text-6xl pt-4 ">
+        Textify
+      </h1>
+      <div className="bg-white rounded-md  shadow-lg md:mx-24 my-12 p-4">
+        <RichTextEditor />
+      </div>
     </div>
   );
 }
