@@ -6,6 +6,13 @@
 
 Try the app live  at  https://textify-editor.vercel.app/
 
+
+
+https://user-images.githubusercontent.com/73446173/127809202-ad5e23ab-5774-4a0a-b804-5eeec05e9e83.mp4
+
+
+
+
 #### Or
 
 If you want to run this locally 
